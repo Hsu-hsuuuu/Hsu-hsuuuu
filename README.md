@@ -1,8 +1,36 @@
 ### Hi there 👋
 
-Hi! My name is Andrey, and I am a front-end developer.
+ My name is Andrey, and I am a front-end developer.
 Create beautiful and intuitive user interfaces.
-Don't stop studying and learning new technologies to im
+Don't stop studying and learning new technologies to improve my skills.
+
+I use technologies such as: HTML, CSS(Sass), JS, React JS\TS.
+
+I work on both simple pages and more complex web applications.
+
+Here you can get acquainted with some of my works and contact me if you want to cooperate :)
+
+---
+Social media:
+
+  <div id="badges">
+    <a href="https://t.me/andrey_nq" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+
+---
+Technologies:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+</div>
 
 ---
 
+[![Codewars Badge](https://www.codewars.com/users/HsuHsuuuu/badges/large)](https://www.codewars.com/users/HsuHsuuuu)
