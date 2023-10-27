@@ -15,7 +15,7 @@ Here you can get acquainted with some of my works and contact me if you want to 
 
   <div id="badges">
     <a href="https://t.me/andrey_nq" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/hsu_hsu" target="_blank">
       <img src="https://img.icons8.com/color/48/vk-circled--v1.png" width="40" height="40" alt="vk group" />
