@@ -11,17 +11,18 @@ I work on both simple pages and more complex web applications.
 Here you can get acquainted with some of my works and contact me if you want to cooperate :)
 
 ---
-Social media:
+### Social media:
 
   <div id="badges">
     <a href="https://t.me/andrey_nq" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://img.icons8.com/color/48/vk-circled--v1.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
 
 
 ---
-Technologies:
+### Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
