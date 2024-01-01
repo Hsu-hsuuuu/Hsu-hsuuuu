@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Andrey, and I am a front-end developer.
+ My name is Andrey, and I am a frontend developer.
 Create beautiful and intuitive user interfaces.
 Don't stop studying and learning new technologies to improve my skills.
 
